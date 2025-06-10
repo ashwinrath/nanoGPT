@@ -1,0 +1,500 @@
+start count item 113 in aisle 5
+start move to aisle 11
+start restock item 135 at aisle 5
+start mark item 170 as not pickable
+start mark item 113 as not pickable
+start place on pallet pallet C
+start move to aisle 13
+start report damaged item 153
+start restock item 199 at aisle 13
+start scan barcode 602768
+start check weight threshold before packaging
+start verify expiry of item 186
+start count item 122 in aisle 10
+start resolve conflict at aisle 7
+start pick 10 boxes of item 182
+start restock item 173 at aisle 12
+start pick 8 boxes of item 119
+start restock item 140 at aisle 20
+start count item 130 in shelf E
+start check weight threshold before packaging
+start scan barcode 840425
+start check weight threshold before packaging
+start validate barcode 834051 on aisle 2
+start log issue with item 159
+start move to aisle 16
+start scan barcode 275611
+start resolve conflict at aisle 19
+start confirm quantity 4
+start mark item 112 as not pickable
+start validate barcode 828951 on aisle 3
+start confirm quantity 10
+start verify expiry of item 112
+start log issue with item 112
+start mark item 151 as not pickable
+start place on pallet pallet A
+start pick 5 boxes of item 133
+start report damaged item 159
+start resolve conflict at aisle 4
+start resolve conflict at aisle 10
+start pick 3 boxes of item 134
+start verify expiry of item 163
+start verify expiry of item 126
+start check weight threshold before packaging
+start resolve conflict at aisle 2
+start restock item 144 at aisle 16
+start validate barcode 507377 on aisle 14
+start place on pallet pallet E
+start mark item 194 as not pickable
+start scan barcode 766299
+start count item 134 in aisle 7
+start count item 110 in aisle 4
+start pick 9 boxes of item 106
+start verify expiry of item 107
+start place on pallet pallet E
+start move to shelf A
+start validate barcode 309392 on aisle 7
+start validate barcode 535215 on aisle 18
+start check weight threshold before packaging
+start confirm quantity 6
+start place on pallet pallet A
+start validate barcode 929498 on aisle 14
+start log issue with item 110
+start resolve conflict at aisle 20
+start move to shelf E
+start count item 132 in aisle 19
+start verify expiry of item 195
+start place on pallet pallet E
+start report damaged item 106
+start verify expiry of item 184
+start mark item 120 as not pickable
+start count item 199 in shelf F
+start resolve conflict at aisle 1
+start place on pallet pallet C
+start confirm quantity 5
+start move to aisle 2
+start verify expiry of item 155
+start pick 1 boxes of item 115
+start mark item 197 as not pickable
+start restock item 118 at aisle 2
+start log issue with item 104
+start restock item 163 at aisle 5
+start report damaged item 162
+start count item 132 in aisle 11
+start report damaged item 153
+start mark item 134 as not pickable
+start place on pallet pallet E
+start scan barcode 573700
+start pick 2 boxes of item 152
+start log issue with item 127
+start verify expiry of item 191
+start scan barcode 632583
+start restock item 145 at aisle 19
+start restock item 112 at aisle 18
+start update status of item 122 to expired
+start log issue with item 148
+start report damaged item 147
+start count item 104 in aisle 5
+start mark item 137 as not pickable
+start verify expiry of item 181
+start confirm quantity 8
+start resolve conflict at aisle 19
+start verify expiry of item 166
+start move to aisle 2
+start check weight threshold before packaging
+start report damaged item 160
+start check weight threshold before packaging
+start log issue with item 148
+start log issue with item 165
+start confirm quantity 10
+start report damaged item 150
+start scan barcode 928484
+start confirm quantity 10
+start mark item 128 as not pickable
+start restock item 183 at aisle 3
+start report damaged item 183
+start verify expiry of item 136
+start place on pallet pallet D
+start update status of item 104 to not found
+start scan barcode 546181
+start restock item 179 at shelf A
+start validate barcode 950938 on aisle 10
+start confirm quantity 6
+start resolve conflict at shelf E
+start check weight threshold before packaging
+start mark item 135 as not pickable
+start verify expiry of item 161
+start log issue with item 163
+start update status of item 113 to expired
+start restock item 173 at shelf B
+start mark item 129 as not pickable
+start resolve conflict at aisle 16
+start pick 4 boxes of item 107
+start count item 149 in aisle 12
+start check weight threshold before packaging
+start confirm quantity 3
+start count item 134 in aisle 18
+start mark item 110 as not pickable
+start validate barcode 280645 on aisle 13
+start check weight threshold before packaging
+start resolve conflict at aisle 20
+start count item 130 in shelf C
+start validate barcode 151304 on aisle 18
+start confirm quantity 4
+start scan barcode 697986
+start log issue with item 169
+start report damaged item 172
+start move to aisle 2
+start validate barcode 710826 on aisle 16
+start scan barcode 875056
+start pick 9 boxes of item 152
+start check weight threshold before packaging
+start move to shelf D
+start confirm quantity 7
+start report damaged item 128
+start restock item 177 at aisle 11
+start pick 8 boxes of item 195
+start confirm quantity 9
+start verify expiry of item 119
+start count item 102 in aisle 13
+start update status of item 156 to damaged
+start check weight threshold before packaging
+start restock item 148 at aisle 9
+start place on pallet pallet A
+start validate barcode 582687 on aisle 18
+start verify expiry of item 180
+start validate barcode 275611 on aisle 19
+start check weight threshold before packaging
+start validate barcode 119124 on aisle 7
+start restock item 178 at aisle 14
+start scan barcode 746089
+start update status of item 177 to damaged
+start place on pallet pallet E
+start report damaged item 179
+start resolve conflict at aisle 20
+start mark item 185 as not pickable
+start resolve conflict at aisle 5
+start move to shelf E
+start scan barcode 708715
+start count item 109 in aisle 9
+start pick 10 boxes of item 148
+start mark item 118 as not pickable
+start scan barcode 766299
+start move to shelf F
+start confirm quantity 8
+start resolve conflict at shelf A
+start validate barcode 927811 on aisle 11
+start move to aisle 20
+start resolve conflict at aisle 16
+start place on pallet pallet A
+start report damaged item 186
+start resolve conflict at shelf D
+start restock item 197 at aisle 17
+start report damaged item 118
+start report damaged item 165
+start update status of item 169 to not found
+start move to aisle 13
+start resolve conflict at aisle 8
+start place on pallet pallet C
+start confirm quantity 4
+start log issue with item 106
+start log issue with item 150
+start pick 3 boxes of item 193
+start resolve conflict at aisle 6
+start move to shelf B
+start validate barcode 686271 on aisle 4
+start update status of item 158 to not found
+start check weight threshold before packaging
+start scan barcode 231809
+start update status of item 126 to damaged
+start confirm quantity 3
+start report damaged item 103
+start confirm quantity 1
+start update status of item 181 to picked
+start mark item 183 as not pickable
+start mark item 118 as not pickable
+start log issue with item 111
+start validate barcode 882199 on aisle 2
+start verify expiry of item 174
+start confirm quantity 10
+start count item 112 in shelf A
+start update status of item 172 to damaged
+start place on pallet pallet D
+start pick 2 boxes of item 128
+start report damaged item 165
+start mark item 135 as not pickable
+start count item 197 in aisle 16
+start validate barcode 465719 on aisle 6
+start check weight threshold before packaging
+start pick 2 boxes of item 179
+start confirm quantity 7
+start place on pallet pallet B
+start confirm quantity 8
+start update status of item 177 to scanned
+start verify expiry of item 173
+start mark item 178 as not pickable
+start scan barcode 151304
+start restock item 174 at aisle 18
+start mark item 105 as not pickable
+start count item 150 in aisle 3
+start count item 151 in shelf A
+start count item 161 in shelf E
+start log issue with item 149
+start confirm quantity 8
+start place on pallet pallet C
+start restock item 177 at aisle 9
+start count item 179 in aisle 4
+start confirm quantity 5
+start place on pallet pallet C
+start place on pallet pallet E
+start count item 190 in aisle 6
+start log issue with item 105
+start restock item 157 at shelf A
+start check weight threshold before packaging
+start place on pallet pallet C
+start move to aisle 9
+start pick 3 boxes of item 107
+start place on pallet pallet C
+start mark item 159 as not pickable
+start move to aisle 18
+start mark item 108 as not pickable
+start update status of item 187 to not found
+start pick 6 boxes of item 173
+start report damaged item 169
+start validate barcode 280645 on aisle 14
+start log issue with item 165
+start mark item 159 as not pickable
+start scan barcode 447387
+start move to aisle 7
+start scan barcode 535215
+start pick 6 boxes of item 101
+start scan barcode 150349
+start validate barcode 575003 on aisle 17
+start mark item 152 as not pickable
+start scan barcode 488976
+start count item 180 in shelf C
+start mark item 130 as not pickable
+start restock item 101 at aisle 7
+start place on pallet pallet E
+start report damaged item 122
+start check weight threshold before packaging
+start update status of item 181 to not found
+start verify expiry of item 123
+start pick 9 boxes of item 153
+start validate barcode 769217 on shelf F
+start restock item 102 at aisle 7
+start update status of item 189 to picked
+start pick 3 boxes of item 154
+start move to shelf D
+start validate barcode 463969 on aisle 7
+start mark item 131 as not pickable
+start update status of item 145 to not found
+start place on pallet pallet D
+start confirm quantity 2
+start verify expiry of item 145
+start resolve conflict at aisle 11
+start report damaged item 128
+start pick 4 boxes of item 179
+start place on pallet pallet D
+start place on pallet pallet E
+start update status of item 100 to not found
+start scan barcode 746089
+start verify expiry of item 150
+start scan barcode 434703
+start report damaged item 186
+start move to aisle 14
+start update status of item 183 to scanned
+start mark item 149 as not pickable
+start report damaged item 125
+start update status of item 158 to picked
+start pick 6 boxes of item 167
+start pick 4 boxes of item 171
+start restock item 153 at aisle 6
+start count item 139 in aisle 17
+start check weight threshold before packaging
+start restock item 162 at shelf F
+start report damaged item 157
+start resolve conflict at aisle 17
+start pick 6 boxes of item 136
+start place on pallet pallet E
+start update status of item 107 to damaged
+start scan barcode 744430
+start scan barcode 746089
+start resolve conflict at shelf C
+start validate barcode 488976 on aisle 5
+start move to aisle 14
+start move to shelf D
+start verify expiry of item 100
+start verify expiry of item 134
+start validate barcode 950938 on aisle 14
+start verify expiry of item 169
+start move to aisle 7
+start report damaged item 143
+start resolve conflict at aisle 12
+start move to shelf B
+start mark item 158 as not pickable
+start place on pallet pallet D
+start mark item 126 as not pickable
+start pick 5 boxes of item 123
+start place on pallet pallet A
+start restock item 182 at aisle 6
+start pick 6 boxes of item 116
+start validate barcode 580650 on aisle 1
+start restock item 106 at aisle 14
+start check weight threshold before packaging
+start validate barcode 539034 on aisle 12
+start pick 8 boxes of item 172
+start count item 160 in aisle 2
+start log issue with item 151
+start scan barcode 744430
+start check weight threshold before packaging
+start check weight threshold before packaging
+start validate barcode 125073 on aisle 3
+start verify expiry of item 104
+start move to aisle 6
+start check weight threshold before packaging
+start confirm quantity 8
+start move to aisle 17
+start place on pallet pallet B
+start place on pallet pallet B
+start check weight threshold before packaging
+start log issue with item 103
+start validate barcode 466404 on aisle 16
+start confirm quantity 1
+start log issue with item 119
+start restock item 144 at aisle 6
+start validate barcode 434277 on aisle 4
+start scan barcode 466404
+start update status of item 144 to expired
+start place on pallet pallet D
+start scan barcode 722388
+start move to aisle 6
+start move to aisle 5
+start count item 171 in aisle 16
+start validate barcode 434277 on aisle 2
+start move to aisle 16
+start count item 115 in aisle 15
+start restock item 165 at shelf F
+start scan barcode 473904
+start mark item 156 as not pickable
+start restock item 125 at aisle 6
+start validate barcode 602768 on aisle 13
+start log issue with item 141
+start pick 1 boxes of item 116
+start move to shelf A
+start report damaged item 173
+start move to aisle 13
+start resolve conflict at aisle 16
+start pick 6 boxes of item 119
+start place on pallet pallet E
+start report damaged item 199
+start confirm quantity 10
+start report damaged item 188
+start restock item 106 at aisle 7
+start validate barcode 863404 on aisle 17
+start check weight threshold before packaging
+start resolve conflict at shelf C
+start report damaged item 137
+start check weight threshold before packaging
+start place on pallet pallet A
+start confirm quantity 1
+start pick 6 boxes of item 195
+start verify expiry of item 141
+start resolve conflict at aisle 12
+start restock item 178 at aisle 17
+start mark item 107 as not pickable
+start validate barcode 580650 on shelf B
+start report damaged item 162
+start confirm quantity 8
+start pick 4 boxes of item 108
+start validate barcode 720463 on shelf E
+start log issue with item 176
+start update status of item 133 to expired
+start update status of item 161 to not found
+start verify expiry of item 160
+start update status of item 150 to not found
+start restock item 187 at aisle 3
+start update status of item 178 to damaged
+start resolve conflict at shelf C
+start validate barcode 190426 on aisle 11
+start log issue with item 189
+start confirm quantity 9
+start resolve conflict at shelf E
+start confirm quantity 10
+start resolve conflict at aisle 10
+start resolve conflict at aisle 4
+start confirm quantity 5
+start pick 10 boxes of item 131
+start log issue with item 184
+start confirm quantity 3
+start resolve conflict at aisle 8
+start update status of item 171 to scanned
+start mark item 104 as not pickable
+start move to aisle 14
+start confirm quantity 9
+start move to aisle 14
+start move to shelf D
+start confirm quantity 9
+start resolve conflict at aisle 15
+start log issue with item 152
+start pick 8 boxes of item 142
+start check weight threshold before packaging
+start verify expiry of item 171
+start scan barcode 764447
+start mark item 181 as not pickable
+start verify expiry of item 170
+start restock item 106 at aisle 3
+start verify expiry of item 109
+start restock item 111 at shelf D
+start mark item 115 as not pickable
+start confirm quantity 4
+start confirm quantity 10
+start report damaged item 107
+start report damaged item 101
+start check weight threshold before packaging
+start resolve conflict at aisle 11
+start report damaged item 160
+start count item 137 in aisle 8
+start report damaged item 124
+start restock item 121 at shelf F
+start verify expiry of item 108
+start validate barcode 469046 on shelf D
+start update status of item 138 to not found
+start mark item 137 as not pickable
+start resolve conflict at aisle 14
+start confirm quantity 1
+start place on pallet pallet A
+start move to aisle 15
+start log issue with item 140
+start scan barcode 580650
+start mark item 109 as not pickable
+start validate barcode 929498 on aisle 15
+start update status of item 106 to damaged
+start pick 1 boxes of item 175
+start move to aisle 12
+start restock item 152 at aisle 10
+start count item 186 in aisle 3
+start update status of item 179 to scanned
+start scan barcode 575003
+start report damaged item 175
+start confirm quantity 8
+start restock item 150 at aisle 8
+start count item 177 in aisle 4
+start place on pallet pallet E
+start update status of item 126 to picked
+start confirm quantity 10
+start log issue with item 184
+start move to aisle 12
+start mark item 185 as not pickable
+start mark item 122 as not pickable
+start pick 9 boxes of item 102
+start mark item 188 as not pickable
+start mark item 148 as not pickable
+start log issue with item 127
+start confirm quantity 5
+start restock item 152 at shelf B
+start confirm quantity 2
+start place on pallet pallet B
+start report damaged item 137
+start mark item 186 as not pickable
+start log issue with item 156
